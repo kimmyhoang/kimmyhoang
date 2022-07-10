@@ -1,7 +1,7 @@
 ### Hello hello! 👋
-:books: I'm an engineering student at the University of Waterloo
-:cherry_blossom: Currently interested in web development
-:envelope: Reach me at k32hoang@uwaterloo.ca
+- :books: I'm an engineering student at the University of Waterloo
+- :cherry_blossom: Currently interested in web development
+- :envelope: Reach me at k32hoang@uwaterloo.ca
 
 <!--
 **kimmyhoang/kimmyhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
