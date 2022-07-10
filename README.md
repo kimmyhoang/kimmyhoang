@@ -1,6 +1,7 @@
-### Hello hello! 👋
+## Hello hello! 👋
+#### Funny seeing you here, I'm Kim!
 - :books: I'm an engineering student at the University of Waterloo
-- :cherry_blossom: Currently interested in web development
+- :cherry_blossom: Currently preparing for my first hackathon on **July 15th** 
 - :envelope: Reach me at k32hoang@uwaterloo.ca
 
 <!--
