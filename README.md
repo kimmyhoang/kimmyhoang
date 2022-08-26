@@ -4,7 +4,7 @@ Hello hello, I'm Kim 👋
 
 #### Funny seeing you here!
 - :books: I'm an engineering student at the University of Waterloo
-- :cherry_blossom: Currently awaiting my next hackathon on **Aug 26th**, S:\HA<KS hosted by Scotiabank! 
+- :cherry_blossom: Currently participating in S:\HA<KS hosted by Scotiabank! 
 - :envelope: Reach me at k32hoang@uwaterloo.ca
 
 #### Languages & Tools
