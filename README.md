@@ -3,9 +3,18 @@ Hello hello, I'm Kim 👋
 </h2>
 
 #### Funny seeing you here!
-- :books: I'm an engineering student at the University of Waterloo
-- 🍁 Currently seeking Fall 2023 internships
-- :envelope: Reach me at k32hoang@uwaterloo.ca
+:books: I'm an engineering student at the University of Waterloo
+
+🍁 Currently seeking Fall 2023 internships
+
+:envelope: Reach me at k32hoang@uwaterloo.ca
+
+🌱 Always looking for a new hackathon to join! Previous hacks:
+- HackRx 2022 (Canada's only pharmacy-centric hackathon)
+- S:\HA<KS (Hosted by Scotiabank)
+- Hack the MIST (University of Toronto's Machine Intelligence Student Team)
+- HackPrinceton
+
 <!-- 
 #### Languages & Tools
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
