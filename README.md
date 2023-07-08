@@ -12,8 +12,8 @@ Hello hello, I'm Kim 👋
 🌱 Always looking for a new hackathon to join! Previous hacks:
 - HackRx 2022 (Canada's only pharmacy-centric hackathon)
 - S:\HA<KS (Hosted by Scotiabank)
-- Hack the MIST (University of Toronto's Machine Intelligence Student Team)
-- HackPrinceton
+- Hack the MIST (Hosted by the University of Toronto's Machine Intelligence Student Team)
+- HackPrinceton (Hosted by Princeton University)
 
 <!-- 
 #### Languages & Tools
