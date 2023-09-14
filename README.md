@@ -5,7 +5,7 @@ Hello hello, I'm Kim 👋
 #### Funny seeing you here!
 :books: I'm an engineering student at the University of Waterloo
 
-🍁 Currently seeking Fall 2023 internships
+🍁 Currently seeking 2024 internships
 
 :envelope: Reach me at k32hoang@uwaterloo.ca
 
