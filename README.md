@@ -3,7 +3,7 @@ Hello hello, I'm Kim 👋
 </h2>
 
 #### Funny seeing you here!
-:books: I'm an engineering student at the University of Waterloo
+🤖 I'm a mechatronics engineering student at the University of Waterloo
 
 🍁 Seeking Fall 2024 internships
 
