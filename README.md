@@ -7,7 +7,7 @@ Hello hello, I'm Kim 👋
 
 ☀️ Seeking Summer 2025 internships
 
-🍊 Currently a Data Sciencist intern at Scotiabank
+🍊 Currently a Data Scientist intern at Scotiabank
 
 :envelope: Reach me at k32hoang@uwaterloo.ca
 
