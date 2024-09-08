@@ -5,9 +5,9 @@ Hello hello, I'm Kim 👋
 #### Funny seeing you here!
 🤖 I'm a mechatronics engineering student at the University of Waterloo
 
-🍁 Seeking Fall 2024 internships
+☀️ Seeking Summer 2025 internships
 
-🍊 Currently a Data Science intern at Tangerine (Subsidiary of Scotiabank)
+🍊 Currently a Data Sciencist intern at Scotiabank
 
 :envelope: Reach me at k32hoang@uwaterloo.ca
 
