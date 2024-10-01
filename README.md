@@ -3,11 +3,11 @@ Hello hello, I'm Kim 👋
 </h2>
 
 #### Funny seeing you here!
-🤖 I'm a mechatronics engineering student at the University of Waterloo
+🤖 I study mechatronics engineering at the University of Waterloo
 
 ☀️ Seeking Summer 2025 internships
 
-🍊 Currently a Data Scientist intern at Scotiabank
+:chart_with_upwards_trend: Currently a Data Scientist intern at Scotiabank
 
 :envelope: Reach me at k32hoang@uwaterloo.ca
 
