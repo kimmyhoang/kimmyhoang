@@ -7,7 +7,7 @@ Hello hello, I'm Kim 👋
 
 ☀️ Seeking Summer 2025 internships
 
-:crescent_moon: Get a deeper glimpse into my mind at [kimhoang.ca](https://kimhoang.ca)
+:crescent_moon: Get a glimpse into my mind at [kimhoang.ca](https://kimhoang.ca)
 
 :ringed_planet: Reach me at k32hoang@uwaterloo.ca
 
