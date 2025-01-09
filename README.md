@@ -3,13 +3,13 @@ Hello hello, I'm Kim 👋
 </h2>
 
 #### Funny seeing you here!
-🤖 I study mechatronics engineering at the University of Waterloo
+:dizzy: Mechatronics engineering at the University of Waterloo
 
 ☀️ Seeking Summer 2025 internships
 
-:chart_with_upwards_trend: Currently a Data Scientist intern at Scotiabank
+:crescent_moon: Get a deeper glimpse into my mind at [kimhoang.ca](https://kimhoang.ca)
 
-:envelope: Reach me at k32hoang@uwaterloo.ca
+:ringed_planet: Reach me at k32hoang@uwaterloo.ca
 
 <!-- 
 #### Languages & Tools
