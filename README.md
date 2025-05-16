@@ -5,9 +5,9 @@ Hello hello, I'm Kim 👋
 #### Funny seeing you here!
 :dizzy: Mechatronics engineering at the University of Waterloo
 
-☀️ Seeking Summer 2025 internships
+:sunny: Seeking Fall 2025 & Summer 2026 internships
 
-:crescent_moon: Get a glimpse into my mind at [kimhoang.ca](https://kimhoang.ca)
+:crescent_moon: Find more at [kimhoang.ca](https://kimhoang.ca)
 
 :ringed_planet: Reach me at k32hoang@uwaterloo.ca
 
