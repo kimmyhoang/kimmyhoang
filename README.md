@@ -7,8 +7,6 @@ Hello hello, I'm Kim 👋
 
 :sunny: Seeking Fall 2025 & Summer 2026 internships
 
-:crescent_moon: Find more at [kimhoang.ca](https://kimhoang.ca)
-
 :ringed_planet: Reach me at k32hoang@uwaterloo.ca
 
 <!-- 
